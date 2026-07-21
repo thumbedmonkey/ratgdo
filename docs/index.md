@@ -70,10 +70,10 @@ Version 2.0 also provides discrete light on/off commands.
 # ratgdo ESP Flasher
 Please see our website for complete & up to date instructions. [https://ratcloud.llc/pages/firmware](https://ratcloud.llc/pages/firmware)
 
-These instructions explain how to flash the ratgdo firmware from your browser (Google Chrome or Chromium based browsers required).
+These instructions explain how to flash the ratgdo firmware from your browser (Google Chrome, Firefox, or Chromium-based browsers required).
 
 ## Installing the firmware
-1. You must use Google Chrome or a Chromium based browser. No other browsers support serial device communication at this time.
+1. You must use Google Chrome, Firefox, or a Chromium-based browser. Other browsers do not support serial device communication at this time.
 2. Connect ratgdo to your Mac or PC with USB cable (Additional USB to UART drivers may be required). The blue LED will briefly flash and turn off when no firmware is present on the board.
 3. [Click here to launch the ratgdo ESP Web Tools flasher](flash.html)
 4. Choose the version you wish to install
